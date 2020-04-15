@@ -1,6 +1,16 @@
 # Paying attention to attention
 Presentation and code about basics of attention mechanism in seq2seq models
 
+## Code
+
+Jupyter notebook presenting the human-machine date translation using attention-based model  can be found [here](https://github.com/tugot17/paying-attention-to-attention/blob/master/Paying_attention_to_Attention.pdf)
+
+
+## Presentation
+
+Compiled version of presentation can be found [here](https://github.com/tugot17/paying-attention-to-attention/blob/master/Paying_attention_to_Attention.pdf)
+
+Presentation Latex code can be found in [presentation_code folder](https://github.com/tugot17/paying-attention-to-attention/tree/master/presentation_code)
 
 
 ## Credits
