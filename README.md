@@ -1,7 +1,7 @@
 # Paying attention to attention
 Presentation and code about basics of the attention mechanism in seq2seq models. 
 
-We present an end-to-end trained solution for translating date information typed by a human into a date format recognizable for a computer. Tmplemented solution is using simple attention-based model. We present also visualization of trained attention weights.
+We present an end-to-end trained solution for translating date information typed by a human into a date format recognizable for a computer. Tmplemented solution is using simple attention-based model. We also present a visualization of a trained attention weights.
 
 Example translation below: 
 
