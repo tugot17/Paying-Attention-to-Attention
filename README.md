@@ -22,7 +22,7 @@ Presentation Latex code can be found in [presentation_code folder](https://githu
 
 ## Credits
 
-[Presentation](https://github.com/tugot17/paying-attention-to-attention/blob/master/Paying_attention_to_Attention.pdf) contains references to all images and papers used with it. 
+[Presentation](https://github.com/tugot17/paying-attention-to-attention/blob/master/Paying_attention_to_Attention.pdf) contains references to all images and papers used within it. 
 
 The following data sources and articles were used to create the helper [notebook](https://github.com/tugot17/paying-attention-to-attention/blob/master/human_machine_translation.ipynb)
 
