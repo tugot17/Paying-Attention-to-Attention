@@ -12,6 +12,12 @@ Example translation below:
 
 Jupyter notebook presenting the human-machine date translation using attention-based model  can be found [here](https://github.com/tugot17/paying-attention-to-attention/blob/master/Paying_attention_to_Attention.pdf)
 
+You can run this code in google colab by clicking this [link](https://colab.research.google.com/github/tugot17/Paying-Attention-to-Attention/blob/master/human_machine_translation.ipynb), but remeber to first download required data. You can do it by running the following command in the colab env.
+
+```
+!wget https://raw.githubusercontent.com/tugot17/Paying-Attention-to-Attention/master/human-machine.csv
+```
+
 
 ## Presentation
 
